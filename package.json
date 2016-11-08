@@ -1,6 +1,27 @@
 {
-  "name": "zenvironment",  
+  "name": "z-environment",
   "company": "zcb",
   "site": "https://github.com/saymy/zenvironment",
-  "version": "1.0.0"
+  "version": "1.0.1",
+  "description": "Welcome to zenvironment!\r ===================",
+  "main": "zenvironment.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saymy/zenvironment.git"
+  },
+  "keywords": [
+    "javascript",
+    "environment",
+    "navigator",
+    "client"
+  ],
+  "author": "saymy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saymy/zenvironment/issues"
+  },
+  "homepage": "https://github.com/saymy/zenvironment#readme"
 }
