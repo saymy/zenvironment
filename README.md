@@ -12,18 +12,20 @@ Welcome to zenvironment!
 > **node环境下使用**
 
  1. 安装:
- npm install --save zenvironment
+ 
+ 	npm install --save z-environment
 
  2. 引用:
- var zenvironment = require('zenvironment')
  
- or
+  	var zenvironment = require('z-environment')
  
- import 'zenvironment'
+ 	or
+ 
+ 	import zenvironment from 'z-environment'
 
 > **Demo **
 
-   浏览器环境使用，下请查看文件中的Demo.html
+   浏览器环境下使用，请查看文件中的Demo.html
  
 
 > **使用和 API 说明**
